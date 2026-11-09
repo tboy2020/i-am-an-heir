@@ -1,9 +1,10 @@
 /* I Am an Heir - offline app shell */
-var CACHE = 'heir-v2';
+var CACHE = 'heir-v3';
 var ASSETS = [
   './',
   './index.html',
   './app_data.js',
+  './install-button.js',
   './manifest.webmanifest',
   './icons/icon-192.png',
   './icons/icon-512.png',
