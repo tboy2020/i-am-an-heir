@@ -1,5 +1,5 @@
 /* I Am an Heir - offline app shell */
-var CACHE = 'heir-v3';
+var CACHE = 'heir-v4';
 var ASSETS = [
   './',
   './index.html',
